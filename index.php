@@ -49,6 +49,8 @@
         
         /******************************************************************************************/
 
+        
+
 
         //recuperar os dados do banco de dados na tabela usuarios
         $sql = "SELECT id, nome, email, senha FROM usuarios";
